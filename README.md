@@ -4,12 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=WOOB0T.WOOB0T&left_color=indigo&right_color=darkviolet&left_text=jessy's profile visitors"  />
-</div>
-
-###
-
 <h1 align="center">print("hello, world!")</h1>
 
 ###
@@ -68,9 +62,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=woob0t&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=woob0t&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/woob0t/woob0t/output/snake.svg" alt="Snake animation" />
 
 ###
