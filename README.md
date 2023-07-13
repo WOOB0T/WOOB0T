@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=woob0t.woob0t&left_color=indigo&right_color=darkviolet&left_text=jessy's profile visitors"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=WOOB0T.WOOB0T&left_color=indigo&right_color=darkviolet&left_text=jessy's profile visitors"  />
 </div>
 
 ###
@@ -18,7 +18,11 @@
 
 ###
 
-<h5 align="left">͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ My name is Jessica, but you can call me only Jessy.<br> ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ I'm 18 years old and live in this beautiful tropical country named Brazil!<br><br>🧁🍭🍬</h5>
+<h5 align="left">͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ My name is Jessica, but you can call me only Jessy.<br> ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ I'm 18 years old and live in this beautiful tropical country named Brazil!</h5>
+
+###
+
+<h5 align="center">🧁🍭🍬</h5>
 
 ###
 
@@ -64,10 +68,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=woob0t&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=woob0t&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<h5 align="center">★ ° . *　　　°　.　°☆ 　. * ● ¸  . 　　　★ 　° :. ★　 * • ○ ° ★  　　.　 * 　.° 　. ● . ★ ° .　　　　. <br>° 　. ● . ★ ° . *　　　°　.　°☆ 　　　　"The ͏ ͏term ͏ ͏specifies ͏ ͏not ͏ ͏only ͏ ͏the ͏ ͏material<br> 　　　　　. 　 ° 　. ● . ★ ° . *　　°　. 　infrastructure ͏ ͏ ͏of ͏ ͏ ͏digital ͏ ͏ communication,<br>　. * ● ¸ . 　　　★ 　° :●. 　 * 　　　　　but also the oceanic universe of information<br>• ○ ° ★　 .　 * 　.　 　　　　　.　　　　it houses, as well as the human beings who<br> 　 ° 　. ● . ★ ° . *　　　°　.　　 ͏ ͏ ͏ ͏　　　　　navigate ͏ ͏and ͏ ͏feed ͏ ͏this ͏ ͏universe　<br>°☆ 　. * ● ¸ . 　　　★  　　　 　　　 　　　 　<br>° :. 　 * • ○ ° ★　 .　 * 　. 　　　　　　　　　　　 　　(Carius, 2021)　　　　　　　　　　　　　<br>　★　　　　. 　 ° 　.  . 　    ★ 　 　　<br>° °☆ 　¸. ● . 　　★　★° . *　　　°　.　°☆ 　. * ● ¸ . ° . *　　　°　.　°☆ 　. * ● ¸ . ★</h5>
 
 ###
 
