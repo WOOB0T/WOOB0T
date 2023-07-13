@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=woob0t.woobot&left_color=indigo&right_color=darkviolet&left_text=jessy's profile visitors"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=woob0t.woob0t&left_color=indigo&right_color=darkviolet&left_text=jessy's profile visitors"  />
 </div>
 
 ###
@@ -18,7 +18,7 @@
 
 ###
 
-<h5 align="center">My name is Jessica, but you can call me only Jessy.<br>I'm 18 years old and live in this beautiful tropical country named Brazil!<br><br>🧁🍭🍬</h5>
+<h5 align="left">͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ My name is Jessica, but you can call me only Jessy.<br> ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ I'm 18 years old and live in this beautiful tropical country named Brazil!<br><br>🧁🍭🍬</h5>
 
 ###
 
@@ -49,7 +49,7 @@
   <a href="https://mail.google.com/mail/u/jessica.luiz@maisunifacisa.com.br" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://discordapp.com/users/.woobot" target="_blank">
+  <a href="https://discordapp.com/users/.woob0t" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="40" alt="discord logo"  />
   </a>
 </div>
@@ -71,6 +71,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/woobot/woob0t/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/woob0t/woob0t/output/snake.svg" alt="Snake animation" />
 
 ###
