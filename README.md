@@ -18,7 +18,11 @@
 
 ###
 
-<h5 align="left">My name is Jessica, but you can call me only Jessy.<br>I'm 18 years old and live in this beautiful tropical country named Brazil!<br><br>- 📚 I'm currently a first-year student of Information Systems course.<br>- 🤖  When I'm not coding, i like to play sudoku, read sci-fi books 'n mimir. 💤</h5>
+<h5 align="center">My name is Jessica, but you can call me only Jessy.<br>I'm 18 years old and live in this beautiful tropical country named Brazil!<br><br>🧁🍭🍬</h5>
+
+###
+
+<h5 align="left">͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏- 📚 I'm currently a first-year student of Information Systems course.<br> ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏- 🤖  When I'm not coding, i like to play sudoku, read sci-fi books 'n mimir. 💤</h5>
 
 ###
 
@@ -63,7 +67,7 @@
 
 ###
 
-<h5 align="left">★ ° . *　　　°　.　°☆ 　. * ● ¸  . 　　　★ 　° :. ★　 * • ○ ° ★  　　.　 * 　.° 　. ● . ★ ° . *　　　°　.　°☆ 　　　　　. 　 <br>° 　. ● . ★ ° . *　　　°　.　°☆ 　　　　"The ͏ ͏term ͏ ͏specifies ͏ ͏not ͏ ͏only ͏ ͏the ͏ ͏material<br> 　　　　　. 　 ° 　. ● . ★ ° . *　　°　. 　infrastructure ͏ ͏ ͏of ͏ ͏ ͏digital ͏ ͏ communication,<br>　. * ● ¸ . 　　　★ 　° :●. 　 * 　　　　　but also the oceanic universe of information<br>• ○ ° ★　 .　 * 　.　 　　　　　.　　　　it houses, as well as the human beings who<br> 　 ° 　. ● . ★ ° . *　　　°　.　　 ͏ ͏ ͏ ͏　　　　　navigate ͏ ͏and ͏ ͏feed ͏ ͏this ͏ ͏universe　<br>°☆ 　. * ● ¸ . 　　　★  　　　 　　　 　　　 　<br>° :. 　 * • ○ ° ★　 .　 * 　. 　　　　　　　　　　　 　　(Carius, 2021)　　　　　　　　　　　　　<br>　★　　　　. 　 ° 　.  . 　    ★ 　 　　<br>° °☆ 　¸. ● . 　　★　★° . *　　　°　.　°☆ 　. * ● ¸ . ° . *　　　°　.　°☆ 　. * ● ¸ . ★</h5>
+<h5 align="center">★ ° . *　　　°　.　°☆ 　. * ● ¸  . 　　　★ 　° :. ★　 * • ○ ° ★  　　.　 * 　.° 　. ● . ★ ° .　　　　. <br>° 　. ● . ★ ° . *　　　°　.　°☆ 　　　　"The ͏ ͏term ͏ ͏specifies ͏ ͏not ͏ ͏only ͏ ͏the ͏ ͏material<br> 　　　　　. 　 ° 　. ● . ★ ° . *　　°　. 　infrastructure ͏ ͏ ͏of ͏ ͏ ͏digital ͏ ͏ communication,<br>　. * ● ¸ . 　　　★ 　° :●. 　 * 　　　　　but also the oceanic universe of information<br>• ○ ° ★　 .　 * 　.　 　　　　　.　　　　it houses, as well as the human beings who<br> 　 ° 　. ● . ★ ° . *　　　°　.　　 ͏ ͏ ͏ ͏　　　　　navigate ͏ ͏and ͏ ͏feed ͏ ͏this ͏ ͏universe　<br>°☆ 　. * ● ¸ . 　　　★  　　　 　　　 　　　 　<br>° :. 　 * • ○ ° ★　 .　 * 　. 　　　　　　　　　　　 　　(Carius, 2021)　　　　　　　　　　　　　<br>　★　　　　. 　 ° 　.  . 　    ★ 　 　　<br>° °☆ 　¸. ● . 　　★　★° . *　　　°　.　°☆ 　. * ● ¸ . ° . *　　　°　.　°☆ 　. * ● ¸ . ★</h5>
 
 ###
 
