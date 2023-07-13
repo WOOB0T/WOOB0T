@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=woobot.woobot&left_color=indigo&right_color=darkviolet&left_text=jessy's profile visitors"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=woob0t.woobot&left_color=indigo&right_color=darkviolet&left_text=jessy's profile visitors"  />
 </div>
 
 ###
@@ -57,8 +57,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=woobot&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=woobot&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=woob0t&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=woob0t&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
@@ -67,6 +67,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/woobot/woobot/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/woobot/woob0t/output/snake.svg" alt="Snake animation" />
 
 ###
