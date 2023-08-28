@@ -16,11 +16,7 @@
 
 ###
 
-<h5 align="center">🧁🍭🍬</h5>
-
-###
-
-<h4 align="left">͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏- 📚 I'm currently a first-year student of Information Systems course.<br> ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏- 🤖  When I'm not coding, i like to play sudoku, read sci-fi books 'n mimir. 💤</h4>
+<h4 align="left">⤷ I'm currently a first-year student of Information Systems course.<br> ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏- ⤷  When I'm not coding, i like to play sudoku, read sci-fi books 'n mimir with my puppy, pitoco. 💤</h4>
 
 ###
 
