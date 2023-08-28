@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ Hi, there! My name is Jessica, but i like to be called by the nickname Jessy. My journey into technology started when i was fourteen years old and discover my huge love for this area, which was first introduced to me through robotic kits in school! Today, at the age of eighteen, i want to extend my knowledge by learning different programming languages. I hope to be part of this world and be able to use my passion to bring something good to our society.</h4>
+<h4 align="left">͏Hi, there! My name is Jessica, but i like to be called by the nickname Jessy. My journey into technology started when i was fourteen years old and discover my huge love for this area, which was first introduced to me through robotic kits in school! Today, at the age of eighteen, i want to extend my knowledge by learning different programming languages. I hope to be part of this world and be able to use my passion to bring something good to our society.</h4>
 
 ###
 
